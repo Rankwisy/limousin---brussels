@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Block crawling of admin or sensitive areas (if any)
+Disallow: /admin/
+Disallow: /_redirects
+
+# Sitemap location
+Sitemap: https://limousine.brussels/sitemap.xml
+
+# Crawl-delay (optional, in seconds)
+Crawl-delay: 1
