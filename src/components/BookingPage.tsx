@@ -289,16 +289,7 @@ const BookingPage: React.FC<BookingPageProps> = ({ currentLang }) => {
                       <Phone size={18} />
                       <span>(+32) 2 681 03 32</span>
                     </a>
-                    
-                    <a 
-                      href="https://wa.me/32489001530"
-                      className="flex items-center space-x-3 bg-green-600 hover:bg-green-700 text-white px-4 py-3 rounded-lg font-semibold transition-colors"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <MessageCircle size={18} />
-                      <span>WhatsApp</span>
-                    </a>
+
                   </div>
                 </div>
 

@@ -178,15 +178,6 @@ const HomePage: React.FC<HomePageProps> = ({ currentLang, onPageChange }) => {
                 >
                   {t.common.getQuote}
                 </button>
-                <a 
-                  href="https://wa.me/3226810332"
-                  className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors flex items-center justify-center space-x-2"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <MessageCircle size={18} />
-                  <span>{t.common.whatsapp}</span>
-                </a>
               </div>
             </div>
 

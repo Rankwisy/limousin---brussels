@@ -98,16 +98,6 @@ export default function ContactPage({ currentLang }: ContactPageProps) {
                 <Phone className="w-5 h-5" />
                 <span>Appeler maintenant</span>
               </a>
-              
-              <a
-                href="https://wa.me/32489001530"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="w-full bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center justify-center space-x-2"
-              >
-                <span>💬</span>
-                <span>WhatsApp</span>
-              </a>
             </div>
           </div>
 

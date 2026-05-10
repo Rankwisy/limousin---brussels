@@ -171,13 +171,7 @@ export default function AboutPage({ currentLang, onPageChange }: AboutPageProps)
               <Phone className="w-5 h-5 mr-2" />
               {t.common.callNow}
             </button>
-            <a
-              href="https://wa.me/32489001530"
-              className="inline-flex items-center px-8 py-4 bg-green-500 text-white font-semibold rounded-full hover:bg-green-600 transition-colors"
-            >
-              <MessageCircle className="w-5 h-5 mr-2" />
-              {t.common.whatsapp}
-            </a>
+
           </div>
         </div>
       </section>

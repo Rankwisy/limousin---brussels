@@ -254,15 +254,6 @@ const ServicesPage: React.FC<ServicesPageProps> = ({ currentLang, onPageChange }
               <Phone size={20} />
               <span>{t.common.callNow}</span>
             </a>
-            <a 
-              href="https://wa.me/32489001530"
-              className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg text-lg font-semibold transition-colors flex items-center justify-center space-x-2"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <MessageCircle size={20} />
-              <span>{t.common.whatsapp}</span>
-            </a>
           </div>
         </div>
       </section>

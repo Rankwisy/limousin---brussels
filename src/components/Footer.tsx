@@ -94,15 +94,6 @@ const Footer: React.FC<FooterProps> = ({ currentLang }) => {
             </h3>
             <div className="space-y-3">
               <a 
-                href="https://wa.me/32489001530" 
-                className="flex items-center space-x-3 bg-green-600 hover:bg-green-700 px-4 py-2 rounded-lg transition-colors text-white text-sm"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <MessageCircle size={16} />
-                <span>WhatsApp</span>
-              </a>
-              <a 
                 href="tel:+3226810332" 
                 className="flex items-center space-x-3 bg-yellow-600 hover:bg-yellow-700 px-4 py-2 rounded-lg transition-colors text-black text-sm font-medium"
               >

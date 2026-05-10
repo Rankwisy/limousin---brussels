@@ -104,15 +104,7 @@ const BusMinibusPage: React.FC<BusMinibusPageProps> = ({ currentLang, onPageChan
               <Phone size={24} />
               <span>Devis Gratuit Immédiat</span>
             </a>
-            <a 
-              href="https://wa.me/32489001530"
-              className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg text-lg font-bold transition-all flex items-center justify-center space-x-2"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <MessageCircle size={24} />
-              <span>WhatsApp Direct</span>
-            </a>
+
           </div>
         </div>
       </section>

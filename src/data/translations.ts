@@ -14,8 +14,7 @@ export const translations = {
       learnMore: "En savoir plus",
       viewAll: "Voir tout",
       phone: "(+32) 2 681 03 32",
-      email: "info@limousine.brussels",
-      whatsapp: "WhatsApp"
+      email: "info@limousine.brussels"
     },
     home: {
       hero: {
@@ -96,30 +95,6 @@ export const translations = {
             text: "Parfait pour nos déplacements d'affaires. Toujours à l'heure et très confortable.",
             author: "Jean Martin",
             rating: 5
-          }
-        ]
-      },
-      fleet: {
-        title: "Notre Flotte",
-        subtitle: "Véhicules de prestige pour tous vos déplacements",
-        vehicles: [
-          {
-            name: "Mercedes Classe V",
-            capacity: "1-8 passagers",
-            description: "Minibus de luxe avec tout le confort moderne",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/V%20CLASS%20MERCEDES.jpg?updatedAt=1753564193271"
-          },
-          {
-            name: "Mercedes Sprinter",
-            capacity: "9-20 passagers",
-            description: "Grand minibus pour groupes importants",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/sp6-980x670.jpg?updatedAt=1753538077484"
-          },
-          {
-            name: "Bus Premium",
-            capacity: "21-35 passagers",
-            description: "Bus de luxe pour déplacements de groupe",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/voyage-tourisme-voyage-sur-la-route-et-transport-de-passagers-bus-touristique-stationne-a-l-exterieur.jpg?updatedAt=1753575311928"
           }
         ]
       }
@@ -249,8 +224,7 @@ export const translations = {
       learnMore: "Meer weten",
       viewAll: "Alles bekijken",
       phone: "(+32) 2 681 03 32",
-      email: "info@limousine.brussels",
-      whatsapp: "WhatsApp"
+      email: "info@limousine.brussels"
     },
     home: {
       hero: {
@@ -458,8 +432,7 @@ export const translations = {
       learnMore: "Learn More",
       viewAll: "View All",
       phone: "(+32) 2 681 03 32",
-      email: "info@limousine.brussels",
-      whatsapp: "WhatsApp"
+      email: "info@limousine.brussels"
     },
     home: {
       hero: {
@@ -540,30 +513,6 @@ export const translations = {
             text: "Perfect for our business trips. Always on time and very comfortable.",
             author: "Jean Martin",
             rating: 5
-          }
-        ]
-      },
-      fleet: {
-        title: "Our Fleet",
-        subtitle: "Prestige vehicles for all your travels",
-        vehicles: [
-          {
-            name: "Mercedes V-Class",
-            capacity: "1-8 passengers",
-            description: "Luxury minibus with all modern comfort",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/V%20CLASS%20MERCEDES.jpg?updatedAt=1753564193271"
-          },
-          {
-            name: "Mercedes Sprinter",
-            capacity: "9-20 passengers",
-            description: "Large minibus for big groups",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/sp6-980x670.jpg?updatedAt=1753538077484"
-          },
-          {
-            name: "Premium Bus",
-            capacity: "21-35 passengers",
-            description: "Luxury bus for group travels",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/voyage-tourisme-voyage-sur-la-route-et-transport-de-passagers-bus-touristique-stationne-a-l-exterieur.jpg?updatedAt=1753575311928"
           }
         ]
       }

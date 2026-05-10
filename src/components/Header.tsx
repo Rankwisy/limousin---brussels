@@ -65,15 +65,6 @@ const Header: React.FC<HeaderProps> = ({ currentPage, onPageChange, currentLang,
                 <Phone size={16} />
                 <span>(+32) 2 681 03 32</span>
               </a>
-              <a 
-                href="https://wa.me/32489001530" 
-                className="flex items-center space-x-2 text-sm hover:text-yellow-400 transition-colors"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <MessageCircle size={16} />
-                <span>WhatsApp</span>
-              </a>
             </div>
 
             {/* Language Switcher */}
@@ -116,15 +107,6 @@ const Header: React.FC<HeaderProps> = ({ currentPage, onPageChange, currentLang,
                 >
                   <Phone size={16} />
                   <span>(+32) 2 681 03 32</span>
-                </a>
-                <a 
-                  href="https://wa.me/32489001530" 
-                  className="flex items-center space-x-2 text-sm hover:text-yellow-400 transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <MessageCircle size={16} />
-                  <span>WhatsApp</span>
                 </a>
               </div>
             </nav>
