@@ -36,7 +36,7 @@ const ServicesPage: React.FC<ServicesPageProps> = ({ currentLang, onPageChange }
       icon: Shield,
       title: t.services.business.title,
       description: t.services.business.description,
-      image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/sieges-vides-par-fenetre-en-train.jpg?updatedAt=1753575929072",
+      image: "https://res.cloudinary.com/du4wqqv37/image/upload/v1778723527/bus-brussels/bus-brussels/transport-affaires.png",
       features: ["Ponctualité garantie", "Véhicules premium", "Facturation entreprise", "Service discret"]
     }
   ];
