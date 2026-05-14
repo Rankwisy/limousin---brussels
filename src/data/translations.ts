@@ -44,7 +44,7 @@ export const translations = {
           {
             title: "Événements Spéciaux",
             description: "Transport de luxe pour vos occasions spéciales",
-            image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/jeunes-adultes-voyageant-en-hiver.jpg"
+            image: "https://res.cloudinary.com/du4wqqv37/image/upload/v1778723531/bus-brussels/bus-brussels/evenements-speciaux.png"
           }
         ]
       },
