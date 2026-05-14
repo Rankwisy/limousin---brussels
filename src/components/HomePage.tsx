@@ -47,7 +47,7 @@ const HomePage: React.FC<HomePageProps> = ({ currentLang, onPageChange }) => {
               </button>
               
               <a 
-                href="https://wa.me/32489001530"
+                href="tel:+32489001530"
                 className="bg-transparent border-2 border-yellow-500 text-yellow-500 hover:bg-yellow-500 hover:text-black px-8 py-4 rounded-lg text-lg font-semibold transition-all duration-300 flex items-center justify-center space-x-2"
               >
                 <Phone size={20} />
