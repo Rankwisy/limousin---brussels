@@ -29,7 +29,7 @@ const ServicesPage: React.FC<ServicesPageProps> = ({ currentLang, onPageChange }
       icon: Users,
       title: t.services.tours.title,
       description: t.services.tours.description,
-      image: "https://ik.imagekit.io/by733ltn6/Limousine%20Brussels/vehicules-sur-la-route-contre-un-ciel-nuageux.jpg?updatedAt=1753575760865",
+      image: "https://res.cloudinary.com/du4wqqv37/image/upload/v1778723536/bus-brussels/bus-brussels/circuits-touristiques.png",
       features: ["Circuits personnalisés", "Guide multilingue", "Arrêts flexibles", "Groupes privés"]
     },
     {
